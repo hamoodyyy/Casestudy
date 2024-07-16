@@ -1,0 +1,17 @@
+[
+    {"PRONAME":"BMW M3","GRANAME":"bmw_m3.jpg","COSTPRICE":"70000.00","MSRP":"75000.00","QTYONHAND":"10","QTYONBACKORDER":"2","ITEM":"BMW M3, a high-performance sports sedan.","BRAND":"BMW"},
+    {"PRONAME":"BMW M4","GRANAME":"bmw_m4.jpg","COSTPRICE":"72000.00","MSRP":"78000.00","QTYONHAND":"8","QTYONBACKORDER":"3","ITEM":"BMW M4, a powerful and stylish coupe.","BRAND":"BMW"},
+    {"PRONAME":"BMW M5","GRANAME":"bmw_m5.jpg","COSTPRICE":"90000.00","MSRP":"95000.00","QTYONHAND":"5","QTYONBACKORDER":"1","ITEM":"BMW M5, a luxury high-performance sedan.","BRAND":"BMW"},
+    {"PRONAME":"BMW M8","GRANAME":"bmw_m8.jpg","COSTPRICE":"120000.00","MSRP":"130000.00","QTYONHAND":"3","QTYONBACKORDER":"2","ITEM":"BMW M8, a top-tier luxury coupe.","BRAND":"BMW"},
+    {"PRONAME":"BMW X5 M","GRANAME":"bmw_x5m.jpg","COSTPRICE":"100000.00","MSRP":"105000.00","QTYONHAND":"4","QTYONBACKORDER":"1","ITEM":"BMW X5 M, a high-performance luxury SUV.","BRAND":"BMW"},
+    {"PRONAME":"Mercedes-AMG C63","GRANAME":"mercedes_c63.jpg","COSTPRICE":"68000.00","MSRP":"73000.00","QTYONHAND":"10","QTYONBACKORDER":"3","ITEM":"Mercedes-AMG C63, a powerful luxury sedan.","BRAND":"Mercedes"},
+    {"PRONAME":"Mercedes-AMG E63","GRANAME":"mercedes_e63.jpg","COSTPRICE":"95000.00","MSRP":"100000.00","QTYONHAND":"6","QTYONBACKORDER":"2","ITEM":"Mercedes-AMG E63, a high-performance luxury sedan.","BRAND":"Mercedes"},
+    {"PRONAME":"Mercedes-AMG G63","GRANAME":"mercedes_g63.jpg","COSTPRICE":"160000.00","MSRP":"170000.00","QTYONHAND":"5","QTYONBACKORDER":"1","ITEM":"Mercedes-AMG G63, a luxury high-performance SUV.","BRAND":"Mercedes"},
+    {"PRONAME":"Mercedes-AMG GT","GRANAME":"mercedes_gt.jpg","COSTPRICE":"120000.00","MSRP":"130000.00","QTYONHAND":"4","QTYONBACKORDER":"2","ITEM":"Mercedes-AMG GT, a luxury sports car.","BRAND":"Mercedes"},
+    {"PRONAME":"Mercedes-AMG S63","GRANAME":"mercedes_s63.jpg","COSTPRICE":"150000.00","MSRP":"160000.00","QTYONHAND":"3","QTYONBACKORDER":"1","ITEM":"Mercedes-AMG S63, a high-end luxury sedan.","BRAND":"Mercedes"},
+    {"PRONAME":"Audi RS3","GRANAME":"audi_rs3.jpg","COSTPRICE":"60000.00","MSRP":"65000.00","QTYONHAND":"10","QTYONBACKORDER":"3","ITEM":"Audi RS3, a compact high-performance sedan.","BRAND":"Audi"},
+    {"PRONAME":"Audi RS5","GRANAME":"audi_rs5.jpg","COSTPRICE":"75000.00","MSRP":"80000.00","QTYONHAND":"8","QTYONBACKORDER":"2","ITEM":"Audi RS5, a stylish and powerful coupe.","BRAND":"Audi"},
+    {"PRONAME":"Audi RS6","GRANAME":"audi_rs6.jpg","COSTPRICE":"100000.00","MSRP":"105000.00","QTYONHAND":"6","QTYONBACKORDER":"2","ITEM":"Audi RS6, a high-performance luxury wagon.","BRAND":"Audi"},
+    {"PRONAME":"Audi RS7","GRANAME":"audi_rs7.jpg","COSTPRICE":"110000.00","MSRP":"115000.00","QTYONHAND":"4","QTYONBACKORDER":"1","ITEM":"Audi RS7, a luxury high-performance sedan.","BRAND":"Audi"},
+    {"PRONAME":"Audi RS Q8","GRANAME":"audi_rsq8.jpg","COSTPRICE":"120000.00","MSRP":"125000.00","QTYONHAND":"5","QTYONBACKORDER":"2","ITEM":"Audi RS Q8, a luxury performance SUV.","BRAND":"Audi"}
+]
